@@ -55,7 +55,7 @@ później w pętli pytaj o słowo i sprawdzaj czy jest w tablicy, lub exit aby w
 
 #### Funkcje
 
-1. typ zwrotu, widoczność i parametry
+1. typ zwrotu i parametry
 2. widoczność zmiennych wewnątrz funkcji
 
 #### ZADANIE - KALKULATOR NA FUNKCJACH (W Cwiczenia1.md)
