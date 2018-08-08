@@ -20,24 +20,15 @@ public class Main
         {
             for(int j = 0; j < n; j++)
             {
-                if(i <= n/2)
+                if(i == j)
                 {
-                    if(i == j || i == n-j-1)
-                    {
-                        System.out.print("X");
-                    }else
-                    {
-                        System.out.print(".");
-                    }
+                    System.out.print("X");
+                }else if(i == n-1-j)
+                {
+                    System.out.print("X");
                 }else
                 {
-                    if(n-i-1 == j || n-i-1 == n-j-1)
-                    {
-                        System.out.print("X");
-                    }else
-                    {
-                        System.out.print(".");
-                    }
+                    System.out.print(".");
                 }
             }
 
