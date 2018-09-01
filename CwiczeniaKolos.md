@@ -14,7 +14,7 @@ Wasz kolos
 * Metody:
   1. `liczby` - zwraca liczby wybrane przez nabywce kupony
   2. `imie` - zwraca imie nabywcy kuponu
-  3. `info` - 'ladnie' wypisuje informacje o kuponie (np. "Jan Kowalski 41 14 32 22 6 8")
+  3. `toString` - 'ladnie' formatuje informacje o kuponie (np. "Jan Kowalski 41 14 32 22 6 8")
 
 ###### Klasa Totolotek
 * Wlasciwosci
