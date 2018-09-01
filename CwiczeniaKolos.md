@@ -22,7 +22,7 @@ Wasz kolos
   2. Wygenerowane liczby dla losowania
 
 * Metody:
-  1. `noweLosowanie` - czysci kuponow i generuje nowe liczby
+  1. `noweLosowanie` - czysci liste kuponow i generuje nowe liczby
   2. `sortuj` - sortuje liste kuponow wedlug ilosci trafnych liczb
   3. `kupony` - zwraca liste wszystkich kuponow
   4. `dodajKupon` - dodaje kupon do losowania
